@@ -1,0 +1,1 @@
+# How-to-Build-a-GUI-QR-Code-Generator-and-Reader-in-Python
